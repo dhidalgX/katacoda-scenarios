@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T20:28:13.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="21.0.2" etag="ROZfeqZauRuNgM3bEubX" type="github"><diagram name="Page-1" id="bUGEWYbrpgy6-oKy8Pk6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-06T21:11:52.147Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="j5z6FisGaD7jiHRIFn6I" version="21.0.2" type="github">
+  <diagram name="Page-1" id="bUGEWYbrpgy6-oKy8Pk6">
+    <mxGraphModel dx="2049" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_0oh639qVl28FQ6klio6-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="940" y="646" width="520" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-42" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="646" width="754" height="754" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-34" value="manifest_files.yaml" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="453" width="117.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="552" y="24.25" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="25.25" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-11" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=76;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="253.25" y="91" width="186.75" height="207.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="321.63" y="120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="1">
+          <mxGeometry x="80" y="26.25" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="1">
+          <mxGeometry x="551" y="24.25" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-14" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;a style=&quot;box-sizing: border-box; background-color: transparent; text-decoration-line: none;&quot; href=&quot;https://github.com/bloqpriv&quot; data-octo-dimensions=&quot;link_type:self&quot; data-octo-click=&quot;hovercard-link-click&quot; data-hovercard-url=&quot;/orgs/bloqpriv/hovercard&quot; data-hovercard-type=&quot;organization&quot; rel=&quot;author&quot; class=&quot;url fn&quot;&gt;bloqpriv&lt;/a&gt;/&lt;span style=&quot;box-sizing: border-box; color: rgb(36, 41, 47); text-align: start; background-color: rgb(246, 248, 250); align-self: stretch !important; margin-right: var(--base-size-8, 8px)  !important;&quot; class=&quot;mr-2 flex-self-stretch&quot;&gt;&lt;a style=&quot;box-sizing: border-box; background-color: transparent; text-decoration-line: none;&quot; href=&quot;https://github.com/bloqpriv/DevOps-Helm-Repo&quot; data-turbo-frame=&quot;repo-content-turbo-frame&quot; data-pjax=&quot;#repo-content-pjax-container&quot;&gt;DevOps-Helm-Repo&lt;/a&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="36.25" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-17" value="&lt;p style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;&lt;a class=&quot;url fn&quot; rel=&quot;author&quot; data-hovercard-type=&quot;organization&quot; data-hovercard-url=&quot;/orgs/bloqpriv/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/bloqpriv&quot; style=&quot;box-sizing: border-box; background-color: transparent; text-decoration-line: none;&quot;&gt;bloqpriv&lt;/a&gt;/&lt;span style=&quot;background-color: rgb(246, 248, 250);&quot;&gt;NearChain&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="35.25" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-18" value="charts/nearchain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="551.88" y="98.63" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-29" value=".github/workflow/&lt;a style=&quot;box-sizing: border-box; background-color: rgb(246, 248, 250); text-decoration-line: none; font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start;&quot; href=&quot;https://github.com/bloqpriv/near-chain/blob/main/.github/workflows/deployment.yml&quot; data-turbo-frame=&quot;repo-content-turbo-frame&quot; title=&quot;deployment.yml&quot; class=&quot;js-navigation-open Link--primary&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;deployment.yml&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294.12" y="190.25" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-32" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=deploy" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="454" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-36" value="helm/values.yaml" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="91" width="117.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/filetype-yml-128.png" vertex="1" parent="1">
+          <mxGeometry x="129.38" y="91" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-41" value="Amazon EKS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;" vertex="1" parent="1">
+          <mxGeometry x="30" y="646" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-49" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="88.44" y="910" width="200.62" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-46" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=kubelet" vertex="1" parent="1">
+          <mxGeometry x="110" y="920" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-50" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="910" width="200.62" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-45" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=kubelet" vertex="1" parent="1">
+          <mxGeometry x="346.88" y="920" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-51" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="553.44" y="906" width="200.62" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-47" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=kubelet" vertex="1" parent="1">
+          <mxGeometry x="570" y="920" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-52" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.volume;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="658.5" width="52.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439.75" y="134" as="sourcePoint" />
+            <mxPoint x="550" y="134" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="134" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_0oh639qVl28FQ6klio6-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="275.75" y="385.25" as="sourcePoint" />
+            <mxPoint x="275.87" y="445.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0oh639qVl28FQ6klio6-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="275.75" y="573" as="sourcePoint" />
+            <mxPoint x="276" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
